@@ -29,6 +29,25 @@ Inference_model.ipynb
    example "flight security", 2
  - Outputs are the relevent document's title and summaries. It extracts the documents if you set content = True in inference.ipynb file.
  
+ #### Set following code in Inference_model.ipynb
+
+```python
+query_string =  "airport security"
+number_of_doc = 4
+tf_idf = tf_doc_df
+
+test_doc = query_and_op( query_string, number_of_doc, tf_doc_df )
+doc_to_query = query_documents
+similarity_indx = test_doc
+title = True
+content = False
+summary = True
+test_rank = True
+
+extract_summary(doc_to_query,similarity_indx, title,content,summary,test_rank)
+
+```
+ 
  
  <div align="left">
 <img src="https://github.com/kshirabdhip/Data-Science---MRP/blob/master/result.JPG" width="800" height="300">
