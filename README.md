@@ -29,7 +29,7 @@ Inference_model.ipynb
    example "flight security", 2
  - Outputs are the relevent document's title and summaries. It extracts the documents if you set content = True in inference.ipynb file.
  
- <div align="center">
+ <div align="left">
 <img src="https://github.com/kshirabdhip/Data-Science---MRP/blob/master/result.JPG" width="800" height="300">
 </div>
  
