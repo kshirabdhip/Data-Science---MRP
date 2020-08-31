@@ -23,3 +23,13 @@ Inference_model.ipynb
 <div align="center">
 <img src="https://github.com/kshirabdhip/Data-Science---MRP/blob/master/model_architecture.png" width="400" height="500">
 </div>
+
+## Results:
+ - Input the document database the query words and number of similar documents to retrieve:
+   example "flight security", 2
+ - Outputs are the relevent document's title and summaries. It extracts the documents if you set content = True in inference.ipynb file.
+ 
+ <div align="center">
+<img src="https://github.com/kshirabdhip/Data-Science---MRP/blob/master/model_architecture.png" width="400" height="500">
+</div>
+ 
