@@ -19,4 +19,4 @@ Inference_model.ipynb
 ```
 
 ### Model Architecture:
-![alt text](https://github.com/kshirabdhip/Data-Science---MRP/blob/master/model_architecture.png)
+<img src="https://github.com/kshirabdhip/Data-Science---MRP/blob/master/model_architecture.png" width="100" height="200">
