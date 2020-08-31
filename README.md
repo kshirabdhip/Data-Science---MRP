@@ -18,3 +18,5 @@ To solve the above problem, we are trying to come up with a model that will extr
 Inference_model.ipynb
 ```
 
+### Model Architecture:
+![alt text](https://github.com/kshirabdhip/Data-Science---MRP/blob/master/model_architecture.png)
