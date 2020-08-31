@@ -22,5 +22,4 @@ Inference_model.ipynb
 
 <div align="center">
 <img src="https://github.com/kshirabdhip/Data-Science---MRP/blob/master/model_architecture.png" width="400" height="500">
-<p>Perfectly balanced</p>
 </div>
