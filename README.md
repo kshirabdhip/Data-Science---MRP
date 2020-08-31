@@ -30,6 +30,6 @@ Inference_model.ipynb
  - Outputs are the relevent document's title and summaries. It extracts the documents if you set content = True in inference.ipynb file.
  
  <div align="center">
-<img src="https://github.com/kshirabdhip/Data-Science---MRP/blob/master/result.JPG" width="400" height="200">
+<img src="https://github.com/kshirabdhip/Data-Science---MRP/blob/master/result.JPG" width="800" height="300">
 </div>
  
