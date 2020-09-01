@@ -54,4 +54,4 @@ extract_summary(doc_to_query,similarity_indx, title,content,summary,test_rank)
 </div>
  
 
-### To know the project in detail please read the "Kshirabdhi_Patel_MRP_Report_MSc_Data Science and Analytics.pdf" file.
+#### To know the project in detail please read the "Kshirabdhi_Patel_MRP_Report_MSc_Data Science and Analytics.pdf" file.
