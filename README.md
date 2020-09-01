@@ -53,3 +53,5 @@ extract_summary(doc_to_query,similarity_indx, title,content,summary,test_rank)
 <img src="https://github.com/kshirabdhip/Data-Science---MRP/blob/master/result.JPG" width="800" height="300">
 </div>
  
+
+### To know the project in detail please read the "Kshirabdhi_Patel_MRP_Report_MSc_Data Science and Analytics.pdf" file.
